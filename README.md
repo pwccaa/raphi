@@ -1,14 +1,58 @@
-# Raphi, complex simplicity
+<p align="center">
+  <img src="https://64.media.tumblr.com/4d0cb16bd639ece1b24da3afc31367e1/tumblr_pq4wvom0XM1y96tyxo5_540.jpg" height="auto" width="200" style="border-radius:50%">
 
-Lorem ipsum
+<h2 align="center">Raphi</h2>
 
-## Running
+<hr align="center" width="300px" />
 
-To run this bot you may provide a `.env` file with the following structure:
+<p align="center">- complex simplicity -</
 
-```.env
-BOT_TOKEN=      # Your Discord bot token, provided by the developers portal
-YOUR_GUILD=     # Your testing guild ID, you may adjust the variable name at `raphi.py`
-APP_ID=         # Your bot's application ID, again provided at the developers portal
-OWNER_ID=       # Your Discord user ID. Used for debugging
+---
+
+
+</p>
+
+## Index
++ [Overview](#overview)
++ [Setup](#setup)
+
+<br />
+
+## Overview <a name = "overview"></a>
+  Raphi is a discord bot made with the <a href="https://discordpy.readthedocs.io/en/stable/">discord.py</a> API.
+  
+  <br />
+
+## Setup <a name = "setup"></a>
+This bot requires Python 3.10+ to run.
+
+<br />
+
+### Clone the repositore
+
+```
+git clone <url> && cd raphi
+```
+
+<br />
+
+### Install dependencies
+
+- Using pip
+
+```
+pip install -r requirements.txt 
+```
+- Using pipenv
+
+```
+pipenv install  
+```
+### Run
+
+- To run normally just run & debug through the IDE of your preference.
+
+- To run in the virtual machine use:
+```
+pipenv run python -m raphi
 ```
