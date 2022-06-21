@@ -1,14 +1,8 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/4d0cb16bd639ece1b24da3afc31367e1/tumblr_pq4wvom0XM1y96tyxo5_540.jpg" height="auto" width="200" style="border-radius:50%">
+    <a href="url"><img src="https://64.media.tumblr.com/4d0cb16bd639ece1b24da3afc31367e1/tumblr_pq4wvom0XM1y96tyxo5_540.jpg" height="auto" width="200" style="border-radius:50%"></a>
 
-<h2 align="center">Raphi</h2>
-
-<hr align="center" width="300px" />
-
-<p align="center">- complex simplicity -</
-
----
-
+<h3 align="center"> Raphi </h3>
+<p align="center">- complex simplicity -</p>
 
 </p>
 
